@@ -1,0 +1,17 @@
+{
+    "boiler": {
+        "boilerState": false,
+        "boilerHeat": 20,
+        "settings": {
+            "heat": {
+                "max": 25,
+                "min": 18,
+                "def": 20
+            }
+        }
+    },
+    "server": {
+        "dhtHeat": 20,
+        "boileState": false
+    }
+}
